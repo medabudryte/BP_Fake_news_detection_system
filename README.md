@@ -13,3 +13,5 @@ Welcome to the repository for the Fake News Detection System, a key component of
 - Reports/ – Locally generated evaluation reports and visualizations.
 - Utils/ – Helper functions for data processing, model loading, and prediction logic.
 - app.py – application running file
+
+Project is currently running. To have LLM access please refer to openrouter.ai instructions.
