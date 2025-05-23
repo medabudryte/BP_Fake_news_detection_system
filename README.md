@@ -14,4 +14,26 @@ Welcome to the repository for the Fake News Detection System, a key component of
 - Utils/ – Helper functions for data processing, model loading, and prediction logic.
 - app.py – application running file
 
-Project is currently running. To have LLM access please refer to openrouter.ai instructions.
+# 🤖 LLM Integration (Optional)
+
+The system allows integration with LLMs for enhanced claim analysis.
+To enable this feature:
+
+Sign up at OpenRouter.ai and obtain your API key.
+Set your API key as an environment variable or input it directly when prompted in the app.
+
+# 📊 Features
+
+- Multi-model Support: Classic ML models (Logistic Regression, SVM) and advanced LLM.
+- Interactive Analysis: Claim-level predictions with metadata, explanations, and visual summaries.
+- Justification Analysis: Includes human-written justifications where available.
+- User-Friendly UI: Built with Streamlit for smooth navigation and visualization.
+- Custom Reports: Evaluation metrics, confusion matrices, and model comparison visuals.
+
+📌 Use Cases
+
+- Educational research on misinformation
+- NLP experimentation with claim classification
+- Human-centered fact-checking tool prototype
+
+Project is currently running and licensed in Apache 2.0 license.
